@@ -298,5 +298,10 @@ html{
     .baiviet-menu li{
         font-size: 13px;
     }
+    .right-content h4,
+ .right-content p{
+    line-height: 12px;
+    font-size: 10px;
+ }
 }
 
