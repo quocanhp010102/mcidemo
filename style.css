@@ -174,9 +174,11 @@ html{
 }
 .baiviet-menu{
     margin-top: 38px;
+    width: 100%;
 }
 .baiviet-menu ul{
     display: flex;
+    width: 100%;
 }
 .baiviet-menu li{
     padding: 0 5px;
@@ -292,6 +294,9 @@ html{
     }
     .img-banner2{
         display: block;
+    }
+    .baiviet-menu li{
+        font-size: 13px;
     }
 }
 
